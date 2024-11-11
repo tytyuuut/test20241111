@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3_cart"]=self["webpackChunkvue3_cart"]||[]).push([[594],{603:function(u,n,t){t.r(n),t.d(n,{default:function(){return o}});var a=t(6768);const e={class:"about"};function r(u,n){return(0,a.uX)(),(0,a.CE)("div",e,n[0]||(n[0]=[(0,a.Lk)("h1",null,"This is an about page",-1)]))}var c=t(1241);const s={},i=(0,c.A)(s,[["render",r]]);var o=i}}]);
+//# sourceMappingURL=about.59a439f3.js.map
